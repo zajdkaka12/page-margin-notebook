@@ -1,0 +1,3 @@
+{"type":"call","ts":1793932638,"task":"approve-pipeline","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793933662,"task":"heal-build","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793933930,"task":"heal-build","model":"opus","model_id":"claude-opus-5"}
